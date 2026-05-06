@@ -1,5 +1,5 @@
 # Project Overview - Codetikki  
-
+  
 ## Project Description 
 
 **Codetikki** is a comprehensive Spring Boot-based microservice platform designed to manage competitive coding platforms with integrated authentication, user profiles, activity tracking, quiz management, and administrative features. The system is built on modern Spring Cloud technologies and provides a scalable, maintainable architecture for handling various aspects of a coding competition platform.
